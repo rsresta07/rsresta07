@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rameshwor Shrestha</h1>
 <h3 align="center">A passionate student from Nepal</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rsresta07" alt="rsresta07" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rsresta07&theme=onedark" alt="rsresta07" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

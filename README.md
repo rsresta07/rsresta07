@@ -16,6 +16,6 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rsresta07&icon=3&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rsresta07&label=Profile%20Views&color=6&icon=3&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

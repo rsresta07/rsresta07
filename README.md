@@ -1,5 +1,6 @@
 # 💫 About Me:
-🌱 I’m currently studying Bachelor of Computer Applications<br>🤝 I’m looking for help with Android Programming (Java)
+🌱 I’m currently studying Bachelor of Computer Applications<be>
+🤝 I’m looking for help with DotNet
 
 
 ## 🌐 Socials:

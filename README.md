@@ -33,7 +33,7 @@
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=rsresta07&theme=dracula&hide_border=false)<br/> -->
 
 # 🛣️ Roadmap:
-[![roadmap.sh](https://roadmap.sh/card/wide/66e01b6cee0aa6b8515f00d3?variant=dark&roadmaps=frontend%2Cfull-stack%2Cjava%2Cmongodb)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/66e01b6cee0aa6b8515f00d3?variant=dark&roadmaps=frontend%2Cfull-stack%2Cjava%2Csql)](https://roadmap.sh)
 
 [![](https://visitcount.itsvg.in/api?id=rsresta07&label=Profile%20Views&color=6&icon=3&pretty=false)](https://visitcount.itsvg.in)
 

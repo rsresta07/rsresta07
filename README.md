@@ -32,8 +32,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=rsresta07&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=rsresta07&theme=dracula&hide_border=false)<br/> -->
 
-# 🛣️ Roadmap:
-[![roadmap.sh](https://roadmap.sh/card/wide/66e01b6cee0aa6b8515f00d3?variant=dark&roadmaps=frontend%2Cjava%2Csql%2Cfull-stack)](https://roadmap.sh)
+<!-- # 🛣️ Roadmap:
+[![roadmap.sh](https://roadmap.sh/card/wide/66e01b6cee0aa6b8515f00d3?variant=dark&roadmaps=frontend%2Cjava%2Csql%2Cfull-stack)](https://roadmap.sh) -->
 
 [![](https://visitcount.itsvg.in/api?id=rsresta07&label=Profile%20Views&color=6&icon=3&pretty=false)](https://visitcount.itsvg.in)
 

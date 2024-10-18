@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a student studying BCA.<br>🌱 I’m currently learning Java.<br>
+🔭 I’m a student studying BCA.<br>🌱 I’m currently learning JavaScript.<br>
 
 
 ## 🌐 Socials:

@@ -48,8 +48,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rsresta07&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=rsresta07&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=rsresta07&theme=dracula&hide_border=true)<br/> -->
-
----
-[![](https://visitcount.itsvg.in/api?id=rsresta07&icon=3&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

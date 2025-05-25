@@ -30,7 +30,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
 -->
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rsresta07&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 # 📊 GitHub Stats:

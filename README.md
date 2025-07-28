@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rsresta07&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=rsresta07&theme=dracula&hide_border=true&include_all_commits=true&count_private=false)
 
+---
 
-
-
-
+**Why did the TypeScript class develop trust issues?**<br/>
+Because every `any` it loved turned out to be something else.

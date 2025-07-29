@@ -5,7 +5,7 @@
 [![My Skills](https://skillicons.dev/icons?i=c,firebase,git,js,md,mysql,nestjs,nextjs,obsidian,php,postgres,postman,tailwind,ts)](https://skillicons.dev)
 
 # 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=rsresta07&title=-Stars,-Issues,-Reviews&no-bg=true&no-frame=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=rsresta07&title=-Stars,-Issues,-Reviews&no-bg=true)
 
 # 📊 GitHub Stats:
 ![top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=rsresta07&theme=transparent&layout=compact&langs_count=8&show_icons=true)

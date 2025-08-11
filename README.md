@@ -22,9 +22,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=rsresta07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=rsresta07&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rsresta07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 # Top Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rsresta07&repo=recblog-frontend-nextjs&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rsresta07&repo=recblog-backend-nestjs&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)

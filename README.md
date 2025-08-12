@@ -14,14 +14,10 @@
   <!-- Top Langs -->
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsresta07&layout=compact&hide_border=true&title_color=E74C3C&text_color=FFF8E1&bg_color=262626&include_all_commits=false&count_private=false" />
   <!-- Stats -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rsresta07&show_icons=true&hide_border=true&title_color=E74C3C&icon_color=E67E22&text_color=FFF8E1&bg_color=262626&include_all_commits=false&count_private=false" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rsresta07&show_icons=true&hide_border=true&title_color=E74C3C&icon_color=E67E22&text_color=FFF8E1&bg_color=262626&include_all_commits=true&count_private=false" />
 </div>
 
 <!--
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rsresta07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rsresta07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rsresta07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 # Top Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rsresta07&repo=recblog-frontend-nextjs&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rsresta07&repo=recblog-backend-nestjs&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)

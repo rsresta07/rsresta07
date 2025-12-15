@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m a student studying BCA.<br>🌱 I’m currently learning JavaScript.
+<!-- 🔭 I’m a student studying BCA.<br> -->
+🌱 I’m currently learning Golang.
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=c,firebase,git,js,md,mysql,nestjs,nextjs,obsidian,php,postgres,postman,tailwind,ts)](https://skillicons.dev)
